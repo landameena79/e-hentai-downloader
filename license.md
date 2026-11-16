@@ -5,7 +5,7 @@ The **E-Hentai Downloader** is a userscript that allows you to download gallery 
 
 <div align="center">
 
-[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/e-hentai-downloader)
+[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/izkdBgdcAJfXzX9lu)
 
 </div>
 <div align="center">
@@ -37,7 +37,7 @@ Unlike the official download button, this script **does not cost GP or Credits**
 
 <div align="center">
 
-[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/e-hentai-downloader)
+[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/izkdBgdcAJfXzX9lu)
 
 </div>
 ---
@@ -67,7 +67,7 @@ The script's compatibility depends on your browser and extension manager.
 
 <div align="center">
 
-[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/e-hentai-downloader)
+[![Download Rule 34 App](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/izkdBgdcAJfXzX9lu)
 
 </div>
 
